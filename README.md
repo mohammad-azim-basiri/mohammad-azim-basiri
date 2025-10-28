@@ -23,7 +23,7 @@ I am a passionate Master's student in Artificial Intelligence at K.N. Toosi Univ
 ## 📬 Get in Touch
 
 - Connect with me on [email](mohammadazimbasiri2024@gmail.com)
-- 
+
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
