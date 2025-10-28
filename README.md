@@ -6,7 +6,7 @@ I am a passionate Master's student in Artificial Intelligence at K.N. Toosi Univ
 ## 🚀 About Me
 
 - 🔭 I am currently pursuing my Master's in Artificial Intelligence at K.N. Toosi University of Technology.
-- 🔭 I’m currently working as a frontend developer, collaborating on artificial intelligence models.
+- 🔭 I’m currently working as a frontend developer and collaborating on artificial intelligence models.
   
 
 ## Tech Stack
