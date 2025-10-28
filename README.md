@@ -9,7 +9,7 @@ I am a passionate Master's student in Artificial Intelligence at K.N. Toosi Univ
 - 🔭 I am currently pursuing my Master's in Artificial Intelligence at K.N. Toosi University of Technology.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,postman,jest,cypress,tailwind,bootstrap,materialui,styledcomponents,sass,,,,,git,github,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,postman,jest,cypress,tailwind,bootstrap,materialui,styledcomponents,sass,git,github,vite)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
