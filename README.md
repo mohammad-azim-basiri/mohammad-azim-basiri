@@ -6,14 +6,16 @@ I am a passionate Master's student in Artificial Intelligence at K.N. Toosi Univ
 ## 🚀 About Me
 
 - 🔭 I am currently pursuing my Master's in Artificial Intelligence at K.N. Toosi University of Technology.
+- 🔭 I’m currently working as a frontend developer and working 
+  
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,postman,jest,cypress,tailwind,bootstrap,materialui,styledcomponents,sass,git,github,vite)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Enhancing my skills in the realm of artificial intelligence.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - I’m looking to collaborate with a team to build real friendships.
 
