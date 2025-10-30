@@ -23,7 +23,8 @@ I am a passionate Master's student in Artificial Intelligence at K.N. Toosi Univ
 ## 📬 Get in Touch
 
 - Connect with me on [email](mohammadazimbasiri2024@gmail.com)
-![Visitor Count](https://profile-counter.glitch.me/{mohammad-azim-basiri}/count.svg)
+- ![Profile views](https://komarev.com/ghpvc/?username=mohammad-azim-basiri)
+
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
