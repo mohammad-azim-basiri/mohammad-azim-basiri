@@ -11,7 +11,7 @@ I am a passionate Master's student in Artificial Intelligence at K.N. Toosi Univ
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?py,pytorch,sklearn,i=html,css,js,react,redux,postman,jest,cypress,tailwind,bootstrap,materialui,styledcomponents,sass,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,html,css,js,react,redux,postman,jest,cypress,tailwind,bootstrap,materialui,styledcomponents,sass,git,github)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
